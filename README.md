@@ -58,5 +58,5 @@
 * Feedback report. 
 
 ## Visit Project docs for details 
-https://cutt.ly/ENr8bOJ
-https://www.youtube.com/shorts/8az4NXEmx3w
+* https://cutt.ly/ENr8bOJ
+* https://www.youtube.com/shorts/8az4NXEmx3w
