@@ -10,7 +10,8 @@
 * View the product.
 * Give the Feedback.
 
-##CUSTOMER
+## CUSTOMER
+
 * Login
 * Manage profile 
 * View products,package and photos.
@@ -21,7 +22,8 @@
 * Make payment online.
 * feedback
 
-##ADMIN
+## ADMIN
+
 * Login
 * Manage profile.
 * View customers details.
@@ -39,12 +41,14 @@
 * Generate report.
 
 ## Stack  
+
 * Technology : HTML5,JavaScript,CSS,Bootstrap4, Php 7.4.9 , MySQL 8.0
 * Reporting tool : Php report-maker 12.0.7
 * Server  : XAMPP
 
 
 ## OUTPUT
+
 * Order invoice. 
 * Employee report.
 * Printed material selling report.
