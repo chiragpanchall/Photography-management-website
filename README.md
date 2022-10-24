@@ -56,3 +56,6 @@
 * Product wise report.
 * Events report.
 * Feedback report. 
+
+## Visit Project docs for details 
+https://cutt.ly/ENr8bOJ
